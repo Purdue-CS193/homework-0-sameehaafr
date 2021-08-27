@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+# Sameeha's First CS193 Homework
+## Some of my favorite things about CS193:
+- the TA's have recent experience with CS/DS and know what tools can help the students the most/they're also relatable
+- the memes on the slide presentations
+- welcoming/energetic environment when I enter class
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
